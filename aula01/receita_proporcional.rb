@@ -21,5 +21,5 @@ puts " #{2 * proporcao.to_i} xícaras de açúcar
  #{3 * proporcao.to_i} xícaras de farinha de trigo
  #{4 * proporcao.to_i} colheres de margarina bem cheias
  #{3 * proporcao.to_i} ovos
- #{1 * proporcao.to_i} xícara de leite aproximadamente
- #{1 * proporcao.to_i} colher (sopa) bem cheia de fermento em pó"
+ #{1 * proporcao.to_i} xícara(s) de leite aproximadamente
+ #{1 * proporcao.to_i} colher(es) (sopa) bem cheia de fermento em pó"
